@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+!Coding
+
+Computer Science student and software developer. I love programming and enjoy simplifying and explaining it in an easy, clear way.
+- 🌱 I’m currently learning Ai
+## 🛠 Skills
+Java |MySQL |HTML,| CSS,| JavaScript| PHP| Flutter |UML Diagrams |Software Requirements Specification (SRS) |Figma |Power BI |User Flow
+
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/GitHub/)
+
 <!--
 **MashaelShaker/MashaelShaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
